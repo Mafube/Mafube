@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mafube
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m @Mafube.
+- 👀 I’m interested in Data Science.
 - 🌱 Degree:BSc Quantitative Risk Management
-- 💞️ I’m looking to collaborate on Student Projects
+-  I’m looking to collaborate on Data Science related project.
 - 📫 How to reach me https://www.linkedin.com/in/mafube-mokone-12a14919a/
 
 <!---
