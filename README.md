@@ -20,9 +20,13 @@ I enjoy working on projects that involve **data-driven decision-making**, statis
 
 ## 🛠 **Technical Skills**
 🔹 **Programming Languages:** Python, R, SQL
+
 🔹 **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+
 🔹 **Machine Learning:** Scikit-learn, TensorFlow, XGBoost
+
 🔹 **Databases:** PostgreSQL, MySQL
+
 🔹 **Other Tools:** Git, Excel, Jupyter Notebook
 
 ---
@@ -30,9 +34,12 @@ I enjoy working on projects that involve **data-driven decision-making**, statis
 ## 🤝 **Collaboration & Open Source**
 💡 I’m open to collaborating on exciting **Data Science** projects that involve:
 - Predictive Analytics
+  
 - Machine Learning & AI
 - Financial Modelling
+  
 - Data Visualisation & Storytelling
+  
 - Risk Analysis & Quantitative Research
 
 If you have an interesting project or idea, let’s connect and build something impactful! 🌟
@@ -41,7 +48,9 @@ If you have an interesting project or idea, let’s connect and build something 
 
 ## 🚀 **Projects & Contributions**
 🔹 **[Superstore Analysis](#)** - Data exploration & visualization of retail sales data
+
 🔹 **[Basketball Performance Model](#)** - Predictive modeling for player performance evaluation
+
 🔹 **[Vehicle Insurance Dashboard](#)** - Interactive Power BI dashboard for policy and claims management
 
 Check out my repositories for more of my latest work! 🚀
