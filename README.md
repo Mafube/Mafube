@@ -1,10 +1,10 @@
-# 👋 Hi, I'm **Mafube Mokone**
+# Hi, I'm **Mafube Mokone**
 
 Welcome to my GitHub profile! I'm passionate about leveraging **data science** and **quantitative analysis** to solve real-world problems. Feel free to explore my projects and connect with me! 🚀
 
 ---
 
-## 👀 **Interests**
+## **Interests**
 📊 Data Science | 📈 Predictive Modeling | 🤖 Machine Learning | 📉 Quantitative Analysis | 💡 Data-Driven Insights
 
 I enjoy working on projects that involve **data-driven decision-making**, statistical modelling, and insightful data visualisation. I'm always looking to refine my skills and explore new methodologies in **data science and analytics**.
@@ -23,7 +23,7 @@ I enjoy working on projects that involve **data-driven decision-making**, statis
 
 🔹 **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
 
-🔹 **Machine Learning:** Scikit-learn, TensorFlow, XGBoost
+🔹 **Machine Learning:** Scikit-learn
 
 🔹 **Databases:** PostgreSQL, MySQL
 
