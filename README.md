@@ -1,83 +1,70 @@
-<h1 align="center">🎮 Mafube Letoau</h1>
-<p align="center"><img src="https://www.pixelartcss.com/images/pixel-art/mario.gif" height="100" alt="Pixel Mafube" /></p>
-
-<pre align="center">
-  __  __        __           _       
- |  \/  |_   _ / _| ___  ___| |_ ___ 
- | |\/| | | | | |_ / _ \/ __| __/ __|
- | |  | | |_| |  _| (_) \__ \ |_\__ \
- |_|  |_|\__,_|_|  \___/|___/\__|___/
-</pre>
+<h1 align="center">Hi 👋, I'm Mafube Letoau</h1>
+<h3 align="center">🚀 A Final Year Computer Engineering Student from South Africa 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&width=435&lines=Smart+Stethoscope+Engineer;Cloud+and+Embedded+Dev;C%2FC%2B%2B+Lover+%F0%9F%92%BB;Open+to+Tech+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=3EB489&center=true&vCenter=true&width=435&lines=Smart+Stethoscope+Builder;Cloud-Native+App+Enthusiast;Hardware+%2B+Software+Innovator;Ready+to+Collaborate+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
----
-
-### 🎬 Project Demo
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mafube&label=Profile%20views&color=0e75b6&style=flat" alt="mafube" />
+</p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img width="500" src="https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg" alt="Smart Stethoscope Project Video">
-    <br>
-    <img src="https://img.shields.io/badge/Watch%20Demo-Smart%20Stethoscope-red?logo=youtube&style=for-the-badge" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mafube&theme=gruvbox&margin-w=10&margin-h=10&no-frame=true" alt="mafube" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Skills & Tools
+### 🔧 About Me
+- 🔭 Currently working on: **Smart Stethoscope**
+- 🌱 Learning: **Docker, AWS, React**
+- 👯 Looking to collaborate on: **Innovative tech & open-source projects**
+- 🤝 Seeking help with: **Signal processing optimization**
+- 💬 Ask me about: **Arduino, real-time systems, C/C++ programming**
+- 📫 Reach me at: **mafobe.letoau2003@gmail.com**
+- ⚡ Fun Fact: *I once debugged a circuit by accident—because the LED blinked in Morse code.*
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,java,javascript,html,css,nodejs,react,linux,mysql,postgresql,docker,aws,tensorflow" />
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/mafube letoau" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="25" />
+  </a>
+  <a href="https://instagram.com/mw" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" height="25" />
+  </a>
 </p>
 
 ---
 
-### 🕹️ GitHub Game Animation
-
+### ⚙️ Tech Stack & Tools
 <p align="center">
-  <img src="https://github.com/mafube/mafube/raw/output/github-contribution-grid-snake.svg" alt="snake game animation" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,java,javascript,html,css,nodejs,react,reactnative,postgresql,mysql,docker,linux,tensorflow,aws" />
 </p>
-
-_To use this: Enable GitHub Actions and generate the snake like this repo does: [`Platane/snk`](https://github.com/Platane/snk)_
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mafube&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafube&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mafube&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mafube&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafube&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mafube&theme=tokyonight" />
 </p>
 
 ---
 
-### 🧩 Fun Badges
-
+### 🎮 Just for Fun: A Game-Like Badge
 <p align="center">
-  <img src="https://img.shields.io/badge/LEVEL-Up!-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Morse%20LED-Debugger-blueviolet?style=for-the-badge&logo=arduino" />
-  <img src="https://img.shields.io/badge/Real%20Time%20Thinker-yes-critical?style=for-the-badge&logo=raspberrypi" />
+  <img src="https://media.giphy.com/media/26gsspf0Cq5n9RHaA/giphy.gif" width="200" alt="Matrix animation gif" />
+  <br>
+  <img src="https://img.shields.io/badge/Status-LEVEL%20UP!-green?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-### 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/mafube letoau" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/mw" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-> 🚀 “Inventing at the intersection of hardware and code — one blink at a time.”
+> _“Building tech that heals and connects the world — one line of code at a time.”_
 
 ---
